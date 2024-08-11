@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "easyarsenal.easy_arsenal.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "easy_arsenal.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
